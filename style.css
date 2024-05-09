@@ -1,17 +1,22 @@
 table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    text-align: left;
-    padding: 15px;
-  }
-  
-  tr:nth-child(even) {
-    background-color: #7ce6e6;
-  }
-  
-  .titulo{
-    text-align: center;
-  }
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 15px;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+.titulo{
+  text-align: center;
+}
+
+.titu{
+  text-align: center;
+
+}
